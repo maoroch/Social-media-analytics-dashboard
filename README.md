@@ -26,6 +26,7 @@ Project created for visualizing and analyzing hackathon-related data.
 
 Clone the repository:
 
+```bash
 git clone https://github.com/maoroch/Cripson-AI.git
 cd hackathonanalytics
 
