@@ -5,6 +5,11 @@ Project created for visualizing and analyzing hackathon-related data.
 
 ---
 
+## 🎥 Demo Video
+
+[Watch Demo on YouTube](https://youtu.be/gidz1Eoa9nc)
+
+
 ## 🚀 Tech Stack
 
 - **Next.js 16** – App Router, server components  
