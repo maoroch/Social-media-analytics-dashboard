@@ -28,7 +28,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/maoroch/Cripson-AI.git
-cd hackathonanalytics
+cd Social-media-analytics-dashboard
 
 Install dependencies:
 npm install
@@ -102,7 +102,3 @@ GROQ_API_KEY="https://example.com/api"
 Easiest way: Vercel
 
 npm run build
-
-📄 License
-
-This project is for hackathon / educational purposes.
