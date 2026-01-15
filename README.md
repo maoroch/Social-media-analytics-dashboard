@@ -1,7 +1,7 @@
 # Hackathon Analytics
 
 Analytics dashboard built with **Next.js 16**, **Tailwind CSS 4**, **Recharts**, and **React 19**.  
-Project created for visualizing and analyzing hackathon-related data.
+Project created for visualizing and analyzing related data.
 
 ---
 
